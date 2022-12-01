@@ -1,0 +1,29 @@
+Age - 7 to 85
+
+purpose_of_travel - aviation, academic, personal, business, tourism.
+
+Type of Travel - Group travel, Personal Travel.
+
+Type Of Booking - Group bookings, Individual/Couple.
+
+Hotel wifi service - Ratings out of 5.
+
+Departure/Arrival convenience - Ratings out of 5.
+
+Ease of Online booking - Ratings out of 5.
+
+Hotel location - Ratings out of 5.
+
+Food and drink - Ratings out of 5.
+
+Stay comfort - Ratings out of 5.
+
+Common Room entertainment - Ratings out of 5.
+
+Checkin/Checkout service - Ratings out of 5.
+
+Other service - Ratings out of 5.
+
+Cleanliness - Ratings out of 5.
+
+satisfaction - satisfied, neutral or dissatisfied.
